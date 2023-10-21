@@ -3,14 +3,13 @@
 Web Scraper is a basic Python web scraping script designed to extract product data from Amazon India. This project is intended for educational purposes and should be used responsibly while respecting Amazon's policies and terms of service.
 
 ## Contents
-- [Web-Scraper](#web-scraper)
-  - [Contents](#contents)
-  - [Important Note](#important-note)
-  - [Prerequisites](#prerequisites)
-  - [Getting Started](#getting-started)
-  - [Usage](#usage)
-  - [Disclaimer](#disclaimer)
-  - [References](#references)
+
+- [Important Note](#important-note)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Disclaimer](#disclaimer)
+- [References](#references)
 
 ## Important Note
 - **Rotating Proxies Recommended**: This script uses a local IP address for scraping. To avoid the risk of getting blocked by Amazon, it's highly recommended to use rotating proxies. Continuous scraping from a single IP address can lead to IP blocking.
